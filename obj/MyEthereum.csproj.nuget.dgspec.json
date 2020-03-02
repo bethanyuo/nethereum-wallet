@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Beth/Desktop/MyEthereum/MyEthereum.csproj": {}
+  },
+  "projects": {
+    "/Users/Beth/Desktop/MyEthereum/MyEthereum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Beth/Desktop/MyEthereum/MyEthereum.csproj",
+        "projectName": "MyEthereum",
+        "projectPath": "/Users/Beth/Desktop/MyEthereum/MyEthereum.csproj",
+        "packagesPath": "/Users/Beth/.nuget/packages/",
+        "outputPath": "/Users/Beth/Desktop/MyEthereum/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Beth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Nethereum.HdWallet": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Nethereum.KeyStore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Nethereum.Web3": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Rijndael256.Core": {
+              "target": "Package",
+              "version": "[3.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
