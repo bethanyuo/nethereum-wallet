@@ -1,4 +1,4 @@
-# Ethereum Wallet
+# Ethereum Wallet (C#)
 Create Ethereum wallet with C#, .NET Core, and Nethereum libraries. Install several NuGet packages, write the source code for different functionalities and in the end, send and receive ether coins with your wallet.   
 
 ## NuGetPackages
