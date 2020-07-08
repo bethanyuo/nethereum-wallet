@@ -8,7 +8,7 @@ Create Ethereum wallet with C#, .NET Core, and Nethereum libraries. Install seve
 * Rijndael256.Core
 
 ## Network
-Ropsten TestNet with [Infura](https://infura.io/)
+Ropsten Testnet with [Infura](https://infura.io/)
 
 ## Create the Repo
 
