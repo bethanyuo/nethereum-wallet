@@ -33,5 +33,5 @@ Ropsten TestNet with [Infura](https://infura.io/)
 * `Exit` from the program
 
 
-### Module 
-MI2: Mudule 5: E2
+## Module 
+MI2: Module 5: E2
